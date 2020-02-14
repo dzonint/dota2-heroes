@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dzonint/dota2-heroes/static/css/main.e4a72cd8.chunk.css",
-    "main.js": "/dzonint/dota2-heroes/static/js/main.f23e3696.chunk.js",
-    "main.js.map": "/dzonint/dota2-heroes/static/js/main.f23e3696.chunk.js.map",
-    "runtime-main.js": "/dzonint/dota2-heroes/static/js/runtime-main.e7c79596.js",
-    "runtime-main.js.map": "/dzonint/dota2-heroes/static/js/runtime-main.e7c79596.js.map",
-    "static/js/2.105d1c69.chunk.js": "/dzonint/dota2-heroes/static/js/2.105d1c69.chunk.js",
-    "static/js/2.105d1c69.chunk.js.map": "/dzonint/dota2-heroes/static/js/2.105d1c69.chunk.js.map",
-    "index.html": "/dzonint/dota2-heroes/index.html",
-    "precache-manifest.9e4bcc0473521ceae6fc176d2f4e9f9c.js": "/dzonint/dota2-heroes/precache-manifest.9e4bcc0473521ceae6fc176d2f4e9f9c.js",
-    "service-worker.js": "/dzonint/dota2-heroes/service-worker.js",
-    "static/css/main.e4a72cd8.chunk.css.map": "/dzonint/dota2-heroes/static/css/main.e4a72cd8.chunk.css.map",
-    "static/js/2.105d1c69.chunk.js.LICENSE.txt": "/dzonint/dota2-heroes/static/js/2.105d1c69.chunk.js.LICENSE.txt"
+    "main.css": "/dota2-heroes/static/css/main.e4a72cd8.chunk.css",
+    "main.js": "/dota2-heroes/static/js/main.bc4cfbf3.chunk.js",
+    "main.js.map": "/dota2-heroes/static/js/main.bc4cfbf3.chunk.js.map",
+    "runtime-main.js": "/dota2-heroes/static/js/runtime-main.195ecff0.js",
+    "runtime-main.js.map": "/dota2-heroes/static/js/runtime-main.195ecff0.js.map",
+    "static/js/2.105d1c69.chunk.js": "/dota2-heroes/static/js/2.105d1c69.chunk.js",
+    "static/js/2.105d1c69.chunk.js.map": "/dota2-heroes/static/js/2.105d1c69.chunk.js.map",
+    "index.html": "/dota2-heroes/index.html",
+    "precache-manifest.5effe44e75a1a7094fffdf4d3e732123.js": "/dota2-heroes/precache-manifest.5effe44e75a1a7094fffdf4d3e732123.js",
+    "service-worker.js": "/dota2-heroes/service-worker.js",
+    "static/css/main.e4a72cd8.chunk.css.map": "/dota2-heroes/static/css/main.e4a72cd8.chunk.css.map",
+    "static/js/2.105d1c69.chunk.js.LICENSE.txt": "/dota2-heroes/static/js/2.105d1c69.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7c79596.js",
+    "static/js/runtime-main.195ecff0.js",
     "static/js/2.105d1c69.chunk.js",
     "static/css/main.e4a72cd8.chunk.css",
-    "static/js/main.f23e3696.chunk.js"
+    "static/js/main.bc4cfbf3.chunk.js"
   ]
 }
